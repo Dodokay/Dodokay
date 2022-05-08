@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JoergSigle
+- 👋 Hi, I’m @Dodokay
 - 👀 I’m interested in Salesforce
 - 🌱 I’m currently learning GitHub and some SF Development stuff
 - 💞️ I’m looking to collaborate on Salesforce Admin and Development stuff
